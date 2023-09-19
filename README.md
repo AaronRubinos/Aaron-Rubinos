@@ -1,8 +1,10 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Aaron Gil Rubinos
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Data Analyst/Network Engineer/Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+"Hi there! I'm Aaron Gil Rubinos, a passionate individual who finds joy in various facets of life. I'm an avid dog lover, always seeking the company of our furry friends. When I'm not spending time with dogs, you'll often find me immersed in the pages of a good book, exploring new worlds and ideas.
+
+I'm also a gamer at heart, constantly on the lookout for exciting challenges and virtual adventures. Additionally, I have a knack for coding and programming, turning lines of text into functional solutions. My diverse interests keep life interesting, and I'm always eager to learn and explore new horizons. Let's connect and share our passions!"
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
