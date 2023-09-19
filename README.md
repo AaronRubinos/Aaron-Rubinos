@@ -6,10 +6,6 @@
 
 I'm also a gamer at heart, constantly on the lookout for exciting challenges and virtual adventures. Additionally, I have a knack for coding and programming, turning lines of text into functional solutions. My diverse interests keep life interesting, and I'm always eager to learn and explore new horizons. Let's connect and share our passions!"
 
----
-
-### 🧰 Languages and Tools
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
